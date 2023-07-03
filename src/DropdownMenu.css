@@ -1,0 +1,39 @@
+.dropdown-menu {
+  position: relative;
+}
+
+.dropdown-button {
+  background-color: white;
+  border: none;
+  color: #333;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 1px;
+
+}
+
+.dropdown-button:hover {
+  background-color: lightgrey;
+}
+
+
+.dropdown-list {
+  position: relative;
+  margin-top: 0px;
+  background-color: white;
+  padding: 5px 30px;
+}
+
+.checkbox-input {
+  cursor: pointer;
+}
+
+.folder-icon {
+  color: blue;
+}
+
+
+  
+
+  
